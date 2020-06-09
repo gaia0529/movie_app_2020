@@ -27,6 +27,8 @@ body,
   justify-content: center;
   align-items: center;
   font-weight: 300;
+  color: #fff;
+  font-size: 2rem;
 }
 
 .movies {
